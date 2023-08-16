@@ -44,5 +44,8 @@
                 }]
             }
         ]
+    },
+    "require": {
+        "xqkeji/composer":"^1.0"
     }
 }
